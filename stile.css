@@ -1,0 +1,134 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.navbar {
+  background: linear-gradient(to left, #0772BF, #1D0463);
+  text-align: center;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.navbar ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+  transition: box-shadow 0.3s ease;
+}
+
+.precios {
+text-align: end;
+
+}
+ 
+.card-dev {
+  min-height: 290px;
+}
+
+#footer {
+  font-size: 14px;
+  background: #333;
+}
+
+#footer .footer-bottom
+{
+    margin-top:50px;
+    width:100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+}
+
+#footer .instagram {
+  float: left;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+#titulo,
+#a {
+  background-color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.card {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1em;
+}
+
+.card-img-dev {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+.card-dev {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 10px 0;
+}
+
+.navbar-brand {
+  color: #fff;
+  font-size: 1.2em;
+}
+
+.navbar-nav .nav-buttons {
+  color: #333;
+}
+
+.navbar-nav .nav-buttons:hover {
+  color: #000;
+}
+
+.num {
+  text-align: end;
+}
